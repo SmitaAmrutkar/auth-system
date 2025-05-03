@@ -12,4 +12,4 @@ A simple user authentication system built with Node.js, Express, JWT, and bcrypt
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/SmitaAmrutkar/auth-system.git
